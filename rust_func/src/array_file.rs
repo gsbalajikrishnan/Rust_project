@@ -1,4 +1,4 @@
-static MAXSIZE:u32 = 10; 
+//static MAXSIZE:u32 = 10; 
 pub fn func_array()
 {
     let arr = [1,2,3,4,5];
