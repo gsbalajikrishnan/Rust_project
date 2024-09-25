@@ -1,4 +1,4 @@
-# Rust_Programming
+# Rust_Problem_Solving
 - Data types
 - Control Statements & Decision Making
 - Function
