@@ -4,7 +4,7 @@ struct StuName {
     reg_no:u32,
   }
   impl StuName {
-    fn func_struc(self:StuName)
+    fn func_struc(self)
     {
       println!("Student name is {}",self.name);
       println!("Student age is {}",self.age);
